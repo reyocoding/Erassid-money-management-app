@@ -1,0 +1,13 @@
+Account,date,type,value,id,details
+H,,,,ID_FOR_ACC_H,
+s,,,,ID_FOR_ACC_s,
+ccp,,,,ID_FOR_ACC_ccp,
+411,,,,ID_FOR_ACC_411,
+D1,,,,ID_FOR_ACC_D1,
+H,2025-03-29,credit,400.0,c6a6966d-5888-43a8-9386-3e4b4f450770,Work
+H,2025-03-29,debit,70.0,3179812c-b3c7-4644-88ae-9161d909f076,saving
+s,2025-03-29,credit,70.0,7ed1b88b-6aca-4824-9886-0a7ea4146650,savving form work
+ccp,2025-03-29,credit,3000.0,063fb2c5-e8ae-4925-82ec-2d17b68b8e30,new pc
+411,2025-03-29,credit,360.0,65bc5030-287a-4ef5-a706-024d3ae936d9,hossam
+411,2025-03-29,debit,50.0,2f58d0f5-0efa-4084-98c5-fe46a17e09ad,anwars money
+D1,2025-03-29,debit,120.0,2e55d9e0-f193-45a7-a642-eba6454e0fb3,D1 exp
